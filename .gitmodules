@@ -10,3 +10,6 @@
 [submodule "bundles/hobo-vim"]
 	path = bundles/hobo-vim
 	url = git://github.com/solars/hobo-vim.git
+[submodule "bundles/nerdtree"]
+	path = bundles/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
