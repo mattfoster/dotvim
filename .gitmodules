@@ -1,3 +1,6 @@
 [submodule "vendor/snipmate-snippets"]
 	path = vendor/snipmate-snippets
 	url = git://github.com/scrooloose/snipmate-snippets.git
+[submodule "vendor/fuzzy_file_finder"]
+	path = vendor/fuzzy_file_finder
+	url = git://github.com/jamis/fuzzy_file_finder.git
