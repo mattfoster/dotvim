@@ -7,3 +7,6 @@
 [submodule "autoload/vim-pathogen"]
 	path = autoload/vim-pathogen
 	url = git://github.com/tpope/vim-pathogen.git
+[submodule "bundles/hobo-vim"]
+	path = bundles/hobo-vim
+	url = git://github.com/solars/hobo-vim.git
