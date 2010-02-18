@@ -37,3 +37,6 @@
 [submodule "bundles/vim-repeat"]
 	path = bundles/vim-repeat
 	url = git://github.com/tpope/vim-repeat.git
+[submodule "bundles/fuzzyfinder_textmate"]
+	path = bundles/fuzzyfinder_textmate
+	url = git://github.com/jamis/fuzzyfinder_textmate.git
