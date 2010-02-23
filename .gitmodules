@@ -4,9 +4,6 @@
 [submodule "vendor/fuzzy_file_finder"]
 	path = vendor/fuzzy_file_finder
 	url = git://github.com/jamis/fuzzy_file_finder.git
-[submodule "vendor/vim-pathogen"]
-	path = vendor/vim-pathogen
-	url = git://github.com/tpope/vim-pathogen.git
 [submodule "bundle/hobo-vim"]
 	path = bundle/hobo-vim
 	url = git://github.com/solars/hobo-vim.git
@@ -43,6 +40,3 @@
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
 	url = git://github.com/bleything/vim-markdown.git
-[submodule "autoload/vim-pathogen"]
-	path = autoload/vim-pathogen
-	url = git://github.com/tpope/vim-pathogen.git
