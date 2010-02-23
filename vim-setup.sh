@@ -45,20 +45,21 @@ git commit -m "added fuzzyfinder_textmate"
 
 # Added by Matt
 
-git submodule add git://github.com/bleything/vim-markdown.git bundles/vim-markdown
+git submodule add git://github.com/bleything/vim-markdown.git bundle/vim-markdown
 git commit -m "added vim-markdown"
+
 #
 ## vim-fuzzyfinder
 #curl -k -O https://bitbucket.org/ns9tks/vim-fuzzyfinder/get/e81fe2c990a5.bz2
-#cd bundles && tar xf ../e81fe2c990a5.bz2 && cd .. && rm e81fe2c990a5.bz2
-#git add bundles/vim-fuzzyfinder
+#cd bundle && tar xf ../e81fe2c990a5.bz2 && cd .. && rm e81fe2c990a5.bz2
+#git add bundle/vim-fuzzyfinder
 #git commit -m "added vim-fuzzyfinder"
 #
-##git add bundles/dbext
+##git add bundle/dbext
 ##git commit -m "added dbext"
-#git add bundles/taglist
+#git add bundle/taglist
 #git commit -m "added taglist"
-#git add bundles/bufexplorer
+#git add bundle/bufexplorer
 #git commit -m "added bufexplorer"
 #
 #mkdir colors
@@ -66,6 +67,6 @@ git commit -m "added vim-markdown"
 #git commit -m "added biogoo colourscheme"
 #
 #mkdir doc && cd doc 
-#ln -s ../bundles/*/doc/* .
+#ln -s ../bundle/*/doc/* .
 #cd ..
 #vim -e "+helptags doc" "+q"
