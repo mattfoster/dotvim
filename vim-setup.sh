@@ -45,8 +45,8 @@ git commit -m "added fuzzyfinder_textmate"
 
 # Added by Matt
 
-#git submodule add git://github.com/bleything/vim-markdown.git bundles/vim-markdown
-#git commit -m "added vim-markdown"
+git submodule add git://github.com/bleything/vim-markdown.git bundles/vim-markdown
+git commit -m "added vim-markdown"
 #
 ## vim-fuzzyfinder
 #curl -k -O https://bitbucket.org/ns9tks/vim-fuzzyfinder/get/e81fe2c990a5.bz2
