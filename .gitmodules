@@ -40,3 +40,6 @@
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
 	url = git://github.com/bleything/vim-markdown.git
+[submodule "bundles/vim-markdown"]
+	path = bundles/vim-markdown
+	url = git://github.com/bleything/vim-markdown.git
