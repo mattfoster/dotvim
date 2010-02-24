@@ -4,42 +4,42 @@
 [submodule "vendor/fuzzy_file_finder"]
 	path = vendor/fuzzy_file_finder
 	url = git://github.com/jamis/fuzzy_file_finder.git
-[submodule "vendor/vim-pathogen"]
-	path = vendor/vim-pathogen
-	url = git://github.com/tpope/vim-pathogen.git
-[submodule "bundles/hobo-vim"]
-	path = bundles/hobo-vim
+[submodule "bundle/hobo-vim"]
+	path = bundle/hobo-vim
 	url = git://github.com/solars/hobo-vim.git
-[submodule "bundles/nerdtree"]
-	path = bundles/nerdtree
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
 	url = git://github.com/scrooloose/nerdtree.git
-[submodule "bundles/nerdcommenter"]
-	path = bundles/nerdcommenter
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
 	url = git://github.com/scrooloose/nerdcommenter.git
-[submodule "bundles/snipmate.vim"]
-	path = bundles/snipmate.vim
+[submodule "bundle/snipmate.vim"]
+	path = bundle/snipmate.vim
 	url = git://github.com/msanders/snipmate.vim.git
-[submodule "bundles/vim-cucumber"]
-	path = bundles/vim-cucumber
+[submodule "bundle/vim-cucumber"]
+	path = bundle/vim-cucumber
 	url = git://github.com/tpope/vim-cucumber.git
-[submodule "bundles/vim-haml"]
-	path = bundles/vim-haml
+[submodule "bundle/vim-haml"]
+	path = bundle/vim-haml
 	url = git://github.com/tpope/vim-haml.git
-[submodule "bundles/vim-ruby-debugger"]
-	path = bundles/vim-ruby-debugger
+[submodule "bundle/vim-ruby-debugger"]
+	path = bundle/vim-ruby-debugger
 	url = git://github.com/astashov/vim-ruby-debugger.git
-[submodule "bundles/vim-fugitive"]
-	path = bundles/vim-fugitive
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
 	url = git://github.com/tpope/vim-fugitive.git
-[submodule "bundles/vim-surround"]
-	path = bundles/vim-surround
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
 	url = git://github.com/tpope/vim-surround.git
-[submodule "bundles/vim-repeat"]
-	path = bundles/vim-repeat
+[submodule "bundle/vim-repeat"]
+	path = bundle/vim-repeat
 	url = git://github.com/tpope/vim-repeat.git
-[submodule "bundles/fuzzyfinder_textmate"]
-	path = bundles/fuzzyfinder_textmate
+[submodule "bundle/fuzzyfinder_textmate"]
+	path = bundle/fuzzyfinder_textmate
 	url = git://github.com/jamis/fuzzyfinder_textmate.git
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = git://github.com/bleything/vim-markdown.git
 [submodule "bundles/vim-markdown"]
 	path = bundles/vim-markdown
 	url = git://github.com/bleything/vim-markdown.git
